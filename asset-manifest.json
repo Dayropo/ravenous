@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ravenous/static/css/main.f205d4fb.chunk.css",
+    "main.js": "/ravenous/static/js/main.5febbbfb.chunk.js",
+    "main.js.map": "/ravenous/static/js/main.5febbbfb.chunk.js.map",
+    "runtime-main.js": "/ravenous/static/js/runtime-main.4069afa6.js",
+    "runtime-main.js.map": "/ravenous/static/js/runtime-main.4069afa6.js.map",
+    "static/js/2.70a0e2c4.chunk.js": "/ravenous/static/js/2.70a0e2c4.chunk.js",
+    "static/js/2.70a0e2c4.chunk.js.map": "/ravenous/static/js/2.70a0e2c4.chunk.js.map",
+    "index.html": "/ravenous/index.html",
+    "precache-manifest.2b3d3c4ff43362f603abe675fdecbcc9.js": "/ravenous/precache-manifest.2b3d3c4ff43362f603abe675fdecbcc9.js",
+    "service-worker.js": "/ravenous/service-worker.js",
+    "static/css/main.f205d4fb.chunk.css.map": "/ravenous/static/css/main.f205d4fb.chunk.css.map",
+    "static/js/2.70a0e2c4.chunk.js.LICENSE.txt": "/ravenous/static/js/2.70a0e2c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4069afa6.js",
+    "static/js/2.70a0e2c4.chunk.js",
+    "static/css/main.f205d4fb.chunk.css",
+    "static/js/main.5febbbfb.chunk.js"
+  ]
+}
